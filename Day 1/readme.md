@@ -1,4 +1,4 @@
-The beginning of the 100 Days of Coding Journey
+The Beginning of the 100 Days of Coding Journey
 ----------------------------------------------------
 
 📌 𝐃𝐚𝐲 1: #100daysofcodechallenge
