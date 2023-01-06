@@ -1,2 +1,2 @@
-# 100DaysofCode
-Documenting my 100 days of Coding Journey
+# 100DaysofCodeChallenge 
+Documenting my 100 Days of Coding Journey
