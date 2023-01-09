@@ -1,4 +1,4 @@
-The fifth day of 100 Days of Coding Challenge
+The Fifth Day of 100 Days of Coding Challenge
 --------------------------------------------------
 📌 𝐃𝐚𝐲 5: #100daysofcodechallenge
 
